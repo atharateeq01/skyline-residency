@@ -10,15 +10,15 @@ export default function GalleryPage() {
 
   // Placeholder images - these would be replaced with actual images
   const galleryImages = [
-    { id: 1, src: "/placeholder.svg?height=600&width=800", alt: "Rafi Gardens Entrance" },
-    { id: 2, src: "/placeholder.svg?height=600&width=800", alt: "Aerial View" },
-    { id: 3, src: "/placeholder.svg?height=600&width=800", alt: "Park Area" },
-    { id: 4, src: "/placeholder.svg?height=600&width=800", alt: "Main Boulevard" },
-    { id: 5, src: "/placeholder.svg?height=600&width=800", alt: "Mosque" },
-    { id: 6, src: "/placeholder.svg?height=600&width=800", alt: "Commercial Area" },
-    { id: 7, src: "/placeholder.svg?height=600&width=800", alt: "Residential Plots" },
-    { id: 8, src: "/placeholder.svg?height=600&width=800", alt: "Green Spaces" },
-    { id: 9, src: "/placeholder.svg?height=600&width=800", alt: "Community Center" },
+    { id: 1, src: "/images/pic1.png", alt: "Rafi Gardens Entrance" },
+    { id: 2, src: "/images/pic2.png", alt: "Aerial View" },
+    { id: 3, src: "/images/pic3.png", alt: "Park Area" },
+    { id: 4, src: "/images/pic4.png", alt: "Main Boulevard" },
+    { id: 5, src: "/images/pic5.png", alt: "Mosque" },
+    { id: 6, src: "/images/pic6.png", alt: "Commercial Area" },
+    { id: 7, src: "/images/pic7.png", alt: "Residential Plots" },
+    { id: 8, src: "/images/pic1.png", alt: "Green Spaces" },
+    { id: 9, src: "/images/pic2.png", alt: "Community Center" },
   ]
 
   return (
